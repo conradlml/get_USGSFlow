@@ -2,7 +2,7 @@
 ################################################################################
 # Direct flow data download from the USGS. 
 # 
-# Lily Conrad, IDEQ State Office
+# Lily Conrad
 # last update: 2/5/2025
 #
 # Data citation: 
